@@ -42,6 +42,6 @@
 			<property name="enableSubPackages" value="false" />
 		</javaClientGenerator>
 		<!-- 指定数据库表 -->
-		<table schema="" tableName="ao_upload_file" domainObjectName="UploadFile"></table>
+		<table schema="" tableName="ao_customer" domainObjectName="Customer"></table>
 	</context>
 </generatorConfiguration>
